@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\viridian's workshop\c++\text adventure\text adventure\source.cpp(236): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: see declaration of '_sleep'
+  Text Adventure.vcxproj -> D:\Viridian's Workshop\C++\Text Adventure\Debug\Text Adventure.exe
