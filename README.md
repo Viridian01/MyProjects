@@ -1,2 +1,2 @@
 # MyProjects
-Cool and new
+Contains old C++ code I worked on when learning the language for the first time.
